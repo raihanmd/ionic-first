@@ -3,5 +3,6 @@
   "integrations": {
     "capacitor": {}
   },
+  "experimentalCloseWatcher": true,
   "type": "react-vite"
 }
